@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="hello-docker-jenkins1"/>
+    <HelloWorld msg="hello-docker-jenkins2"/>
   </div>
 </template>
 
