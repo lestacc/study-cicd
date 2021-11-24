@@ -1,6 +1,6 @@
-FROM nginx
+# FROM nginx
 
-ADD ./dist/ /usr/share/nginx/html
-COPY ./nginx/default.conf /etc/nginx/conf.d/default.conf
+# ADD ./dist/ /usr/share/nginx/html
+# COPY ./nginx/default.conf /etc/nginx/conf.d/default.conf
 
-EXPOSE 80
+# EXPOSE 80
